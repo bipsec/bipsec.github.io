@@ -11,54 +11,80 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* B.S. in Computer Science and Engineering, 2021
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* 2023: ByteTrek Co. Ltd
+  * Junior Software Engineer
+  * Duties includes: Medical Data Analysis and Reputation Management System
+  * Supervisor: Md. Shanewaz Pabon
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* 2024: Ariake Co. Ltd
+  * System Engineer
+  * Duties included: GIS Mapping Software, Plugin Development, System Maintenance
+  * Supervisor: Yamato
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* 2025: Graduate Research Assistant
+  * North Dakota State University
+  * Duties included: Research and Development
+  * Supervisor: Professor Dr. Juan Li
 
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+
+[//]: # ()
+
+[//]: # (Skills)
+
+[//]: # (======)
+
+[//]: # (* Skill 1)
+
+[//]: # (* Skill 2)
+
+[//]: # (  * Sub-skill 2.1)
+
+[//]: # (  * Sub-skill 2.2)
+
+[//]: # (  * Sub-skill 2.3)
+
+[//]: # (* Skill 3)
+
+[//]: # ()
+[//]: # (Publications)
+
+[//]: # (======)
+
+[//]: # (  <ul>{% for post in site.publications reversed %})
+
+[//]: # (    {% include archive-single-cv.html %})
+
+[//]: # (  {% endfor %}</ul>)
+
+[//]: # (  )
+[//]: # (Talks)
+
+[//]: # (======)
+
+[//]: # (  <ul>{% for post in site.talks reversed %})
+
+[//]: # (    {% include archive-single-talk-cv.html  %})
+
+[//]: # (  {% endfor %}</ul>)
+
+[//]: # (  )
+[//]: # (Teaching)
+
+[//]: # (======)
+
+[//]: # (  <ul>{% for post in site.teaching reversed %})
+
+[//]: # (    {% include archive-single-cv.html %})
+
+[//]: # (  {% endfor %}</ul>)
+
+[//]: # (  )
+[//]: # (Service and leadership)
+
+[//]: # (======)
+
+[//]: # (* Currently signed in to 43 different slack teams)
